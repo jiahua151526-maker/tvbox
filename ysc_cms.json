@@ -1,72 +1,10 @@
 {
  "spider": "",
+ "wallpaper": "",
  "sites": [
   {
-   "key": "cms_wwwpgxdyco_1yewqo",
-   "name": "🔞黄AV",
-   "type": 0,
-   "api": "https://www.pgxdy.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_wwwmsniico_1yewqo",
-   "name": "🔞美少女",
-   "type": 0,
-   "api": "https://www.msnii.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_wwwxrbspco_1yewqo",
-   "name": "🔞淫水机",
-   "type": 0,
-   "api": "https://www.xrbsp.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_wwwkxgavco_1yewqo",
-   "name": "🔞白嫖",
-   "type": 0,
-   "api": "https://www.kxgav.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_wwwgdlspco_1yewqo",
-   "name": "🔞香奶儿",
-   "type": 0,
-   "api": "https://www.gdlsp.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_shayuapico_14g5rg",
-   "name": "🔞shayu",
-   "type": 0,
-   "api": "https://shayuapi.com/api.php/Seacms/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_91mdme_1j4fk5",
-   "name": "🔞91麻豆",
-   "type": 0,
-   "api": "https://91md.me/api.php/provide/vod/at/xml/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_xiaohuangs_yhmxf6",
-   "name": "🔞小黄书",
+   "key": "cms0",
+   "name": "小黄书",
    "type": 1,
    "api": "https://xiaohuangshu-2f7c.web.zaka.live/api/",
    "searchable": 1,
@@ -74,53 +12,17 @@
    "filterable": 1
   },
   {
-   "key": "cms_aosikazyco_8blcev",
-   "name": "🔞奥斯卡",
+   "key": "cms1",
+   "name": "shayu",
    "type": 1,
-   "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+   "api": "https://shayuapi.com/api.php/provide/vod/",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
   },
   {
-   "key": "cms_155apicom_8blcev",
-   "name": "🔞155",
-   "type": 1,
-   "api": "https://155api.com/api.php/provide/vod/?ac=list",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_apiyutucom_8blcev",
-   "name": "🔞玉兔",
-   "type": 1,
-   "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_apilsbzy1c_8blcev",
-   "name": "🔞老色逼",
-   "type": 1,
-   "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_yutuzy3com_8blcev",
-   "name": "🔞玉兔资源",
-   "type": 1,
-   "api": "https://yutuzy3.com/api.php/provide/vod/?ac=list",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_fhapi9com_y8rqhm",
-   "name": "🔞番号资源",
+   "key": "cms2",
+   "name": "番号资源",
    "type": 1,
    "api": "http://fhapi9.com/api.php/provide/vod/",
    "searchable": 1,
@@ -128,8 +30,44 @@
    "filterable": 1
   },
   {
-   "key": "cms_jkunzyapic_y8rqhm",
-   "name": "🔞鸡坤资源",
+   "key": "cms3",
+   "name": "辣椒",
+   "type": 1,
+   "api": "https://apilj.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms4",
+   "name": "玉兔",
+   "type": 1,
+   "api": "https://apiyutu.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms5",
+   "name": "奥斯卡",
+   "type": 1,
+   "api": "https://aosikazy.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms6",
+   "name": "155",
+   "type": 1,
+   "api": "https://155api.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms7",
+   "name": "鸡坤资源",
    "type": 1,
    "api": "https://jkunzyapi.com/api.php/provide/vod/",
    "searchable": 1,
@@ -137,31 +75,60 @@
    "filterable": 1
   },
   {
-   "key": "cms_apiddapicc_8blcev",
-   "name": "🔞滴滴资源",
+   "key": "cms8",
+   "name": "滴滴资源",
    "type": 1,
-   "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+   "api": "https://api.ddapi.cc/api.php/provide/vod/",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
   },
   {
-   "key": "cms_apiljcom_179zi3",
-   "name": "🔞辣椒",
+   "key": "cms9",
+   "name": "91麻豆",
    "type": 1,
-   "api": "https://apilj.com/api.php/provide/vod/at/json/",
+   "api": "https://91md.me/api.php/provide/vod/",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
   },
   {
-   "key": "cms_api11batco_1j4fk5",
-   "name": "🔞辣椒2",
+   "key": "cms10",
+   "name": "香奶儿",
    "type": 0,
-   "api": "http://api.11bat.com/api.php/provide/vod/at/xml/",
+   "api": "https://www.gdlsp.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms11",
+   "name": "黄AV",
+   "type": 0,
+   "api": "https://www.pgxdy.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms12",
+   "name": "美少女",
+   "type": 0,
+   "api": "https://www.msnii.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms13",
+   "name": "白嫖",
+   "type": 0,
+   "api": "https://www.kxgav.com/api/xml.php",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
   }
- ]
+ ],
+ "lives": [],
+ "parses": []
 }
