@@ -38,28 +38,10 @@
    "filterable": 1
   },
   {
-   "key": "cms_xiaohuangs_yhmxf6",
-   "name": "🔞小黄书",
-   "type": 1,
-   "api": "https://xiaohuangshu-2f7c.web.zaka.live/api/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
    "key": "cms_fhapi9com_y8rqhm",
    "name": "🔞番号资源",
    "type": 1,
    "api": "http://fhapi9.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_jkunzyapic_y8rqhm",
-   "name": "🔞鸡坤资源",
-   "type": 1,
-   "api": "https://jkunzyapi.com/api.php/provide/vod/",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -114,6 +96,15 @@
    "name": "🔞白嫖",
    "type": 0,
    "api": "https://www.kxgav.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apiyutucom_8blcev",
+   "name": "🔞玉兔",
+   "type": 1,
+   "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
