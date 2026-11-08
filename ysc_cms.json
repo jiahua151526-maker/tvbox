@@ -2,10 +2,10 @@
  "spider": "",
  "sites": [
   {
-   "key": "cms_fhapi9com_1j4fk5",
-   "name": "🔞番号XML",
-   "type": 0,
-   "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+   "key": "cms_lbapi9com_8blcev",
+   "name": "🔞lbapi",
+   "type": 1,
+   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
