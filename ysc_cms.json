@@ -2,16 +2,16 @@
  "spider": "",
  "sites": [
   {
-   "key": "cms_1270018899_122ss0",
+   "key": "huangguo",
    "name": "🎬黄果短剧·本机",
    "type": 1,
-   "api": "http://127.0.0.1:8899/cms.json",
+   "api": "http://127.0.0.1:8899",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
   },
   {
-   "key": "cms_aosikazyco_8blcev",
+   "key": "cms_aosikazy",
    "name": "🔞奥斯卡",
    "type": 1,
    "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
@@ -20,7 +20,7 @@
    "filterable": 1
   },
   {
-   "key": "cms_155apicom_8blcev",
+   "key": "cms_155api",
    "name": "🔞155",
    "type": 1,
    "api": "https://155api.com/api.php/provide/vod/?ac=list",
@@ -29,7 +29,7 @@
    "filterable": 1
   },
   {
-   "key": "cms_apiyutucom_8blcev",
+   "key": "cms_apiyutu",
    "name": "🔞玉兔",
    "type": 1,
    "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
@@ -38,7 +38,7 @@
    "filterable": 1
   },
   {
-   "key": "cms_apilsbzy1c_8blcev",
+   "key": "cms_apilsbzy1",
    "name": "🔞老色逼",
    "type": 1,
    "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
@@ -47,7 +47,7 @@
    "filterable": 1
   },
   {
-   "key": "cms_apiddapicc_8blcev",
+   "key": "cms_ddapi",
    "name": "🔞滴滴资源",
    "type": 1,
    "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
@@ -56,7 +56,7 @@
    "filterable": 1
   },
   {
-   "key": "cms_jkunzyapic_y8rqhm",
+   "key": "cms_jkunzy",
    "name": "🔞鸡坤资源",
    "type": 1,
    "api": "https://jkunzyapi.com/api.php/provide/vod/",
@@ -65,7 +65,7 @@
    "filterable": 1
   },
   {
-   "key": "cms_slapibfcom_8blcev",
+   "key": "cms_slapibf",
    "name": "🔞slapibf",
    "type": 1,
    "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
@@ -74,7 +74,7 @@
    "filterable": 1
   },
   {
-   "key": "cms_lbapi9com_8blcev",
+   "key": "cms_lbapi",
    "name": "🔞lbapi",
    "type": 1,
    "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
@@ -83,7 +83,7 @@
    "filterable": 1
   },
   {
-   "key": "cms_fhapi9com_1j4fk5",
+   "key": "cms_fhapi9",
    "name": "🔞番号XML",
    "type": 0,
    "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
@@ -92,7 +92,7 @@
    "filterable": 1
   },
   {
-   "key": "cms_wwwgdlspco_1yewqo",
+   "key": "cms_gdlsp",
    "name": "🔞香奶儿",
    "type": 0,
    "api": "https://www.gdlsp.com/api/xml.php",
@@ -101,7 +101,7 @@
    "filterable": 1
   },
   {
-   "key": "cms_wwwpgxdyco_1yewqo",
+   "key": "cms_pgxdy",
    "name": "🔞黄AV",
    "type": 0,
    "api": "https://www.pgxdy.com/api/xml.php",
@@ -110,7 +110,7 @@
    "filterable": 1
   },
   {
-   "key": "cms_wwwmsniico_1yewqo",
+   "key": "cms_msnii",
    "name": "🔞美少女",
    "type": 0,
    "api": "https://www.msnii.com/api/xml.php",
@@ -119,7 +119,7 @@
    "filterable": 1
   },
   {
-   "key": "cms_wwwxrbspco_1yewqo",
+   "key": "cms_xrbsp",
    "name": "🔞淫水机",
    "type": 0,
    "api": "https://www.xrbsp.com/api/xml.php",
@@ -128,7 +128,7 @@
    "filterable": 1
   },
   {
-   "key": "cms_wwwkxgavco_1yewqo",
+   "key": "cms_kxgav",
    "name": "🔞白嫖",
    "type": 0,
    "api": "https://www.kxgav.com/api/xml.php",
@@ -137,28 +137,10 @@
    "filterable": 1
   },
   {
-   "key": "cms_155apicom_1j4fk5",
-   "name": "🔞155-XML",
+   "key": "cms_11bat",
+   "name": "🔞辣椒2",
    "type": 0,
-   "api": "https://155api.com/api.php/provide/vod/at/xml",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_apiddapicc_1j4fk5",
-   "name": "🔞滴滴XML",
-   "type": 0,
-   "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms_lbapi9com_1j4fk5",
-   "name": "🔞lbapi",
-   "type": 0,
-   "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+   "api": "http://api.11bat.com/api.php/provide/vod/at/xml/",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
