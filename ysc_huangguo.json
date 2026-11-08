@@ -1,0 +1,15 @@
+{
+ "spider": "",
+ "sites": [
+  {
+   "key": "huangguo",
+   "name": "🎬黄果短剧",
+   "type": 1,
+   "api": "https://cdn.jsdelivr.net/gh/jiahua151526-maker/tvbox@main/huangguo_cms.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": ""
+  }
+ ]
+}
