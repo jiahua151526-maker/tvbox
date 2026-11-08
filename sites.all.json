@@ -1,0 +1,77 @@
+{
+ "spider": "",
+ "sites": [
+  {
+   "key": "cms_xiaohuangs",
+   "name": "🔞小黄书",
+   "type": 1,
+   "api": "https://xiaohuangshu-2f7c.web.zaka.live/api/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_yutuzy3",
+   "name": "🔞玉兔资源",
+   "type": 1,
+   "api": "https://yutuzy3.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_fhapi9",
+   "name": "🔞番号资源",
+   "type": 1,
+   "api": "http://fhapi9.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apilj",
+   "name": "🔞辣椒",
+   "type": 1,
+   "api": "https://apilj.com/api.php/provide/vod/at/json/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_91md",
+   "name": "🔞91麻豆",
+   "type": 0,
+   "api": "https://91md.me/api.php/provide/vod/at/xml/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_shayuapi",
+   "name": "🔞shayu",
+   "type": 0,
+   "api": "https://shayuapi.com/api.php/Seacms/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_fhxml",
+   "name": "🔞番号XML",
+   "type": 0,
+   "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "huangguo",
+   "name": "🎬黄果短剧",
+   "type": 1,
+   "api": "https://huangguo-cms.jiahua151526.workers.dev",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  }
+ ]
+}
