@@ -1,1 +1,19 @@
-{"v":1,"updated":"2026-11-08T06:40:00Z","lines":[{"name":"测试连通","url":"https://clun.top/jsm.json"}],"disabled":[]}
+{
+ "v": 1,
+ "updated": "2026-11-08T06:40:55.557Z",
+ "count": 3,
+ "lines": [
+  {
+   "name": "clun-jsm",
+   "url": "https://clun.top/jsm.json"
+  },
+  {
+   "name": "qist-0827",
+   "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/0827.json"
+  },
+  {
+   "name": "奥斯卡",
+   "url": "https://aosikazy.com/api.php/provide/vod/?ac=list"
+  }
+ ]
+}
