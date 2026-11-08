@@ -14,7 +14,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: cd ${{ github.workspace }} && python3 .github/scripts/hg_build.py huangguo_cms.json
+      - run: python3 $GITHUB_WORKSPACE/.github/scripts/hg_build.py $GITHUB_WORKSPACE/huangguo_cms.json
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
