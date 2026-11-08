@@ -1,260 +1,116 @@
 {
  "urls": [
   {
+   "name": "动漫城📚在线",
+   "url": "https://www.yingm.cc/dm/dm.json"
+  },
+  {
    "name": "tvyuan·网盘58/1437",
    "url": "https://cdn.jsdmirror.com/gh/25175/tvyuan@master/tvbox_full.json"
-  },
-  {
-   "name": "fish·104站",
-   "url": "https://6800.kstore.vip/fish.json"
-  },
-  {
-   "name": "🐂王二小🐮",
-   "url": "https://9280.kstore.vip/aiwex.json"
   },
   {
    "name": "8815-wmz·网盘23/95",
    "url": "https://8815.kstore.vip/tvbox/wmz"
   },
   {
-   "name": "小马",
-   "url": "https://szyyds.cn/tv/x.json"
+   "name": "挺好📚在线",
+   "url": "https://ztha.top/TVBox/thdjk.json"
   },
   {
    "name": "changqing·72站",
    "url": "https://13413.kstore.space/tv/changqing.json"
   },
   {
-   "name": "摸鱼儿",
-   "url": "http://www.y456y.com"
+   "name": "🤓东篱🤓",
+   "url": "https://16151.kstore.space"
   },
   {
-   "name": "挺好📚在线",
-   "url": "https://ztha.top/TVBox/thdjk.json"
+   "name": "🐂王二小🐮",
+   "url": "https://9280.kstore.vip/aiwex.json"
   },
   {
    "name": "小凯📚在线",
    "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json"
   },
   {
+   "name": "小马",
+   "url": "https://szyyds.cn/tv/x.json"
+  },
+  {
+   "name": "摸鱼儿",
+   "url": "http://www.y456y.com"
+  },
+  {
+   "name": "fish·104站",
+   "url": "https://6800.kstore.vip/fish.json"
+  },
+  {
    "name": "newwex·99站",
    "url": "https://9280.kstore.space/newwex.json"
-  },
-  {
-   "name": "🤓东篱🤓",
-   "url": "https://16151.kstore.space"
-  },
-  {
-   "name": "⚪PG⚪",
-   "url": "https://www.252035.xyz/p/jsm.json"
-  },
-  {
-   "name": "🚀香雅情线路",
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
-  },
-  {
-   "name": "王二小",
-   "url": "http://new.xn--4kq62z5rby2qupq9ub.top/"
-  },
-  {
-   "name": "月光📚在线",
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json"
-  },
-  {
-   "name": "🚀蜂蜜线路",
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
   },
   {
    "name": "饭太硬",
    "url": "http://www.xn--sss604efuw.net/tv"
   },
   {
-   "name": "🔞奥斯卡",
-   "url": "https://aosikazy.com/api.php/provide/vod/?ac=list"
+   "name": "心魔📚在线",
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
   },
   {
-   "name": "南风📚在线",
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-  },
-  {
-   "name": "🔞辣椒2",
-   "url": "http://api.11bat.com/api.php/provide/vod/at/xml/"
-  },
-  {
-   "name": "SVIP📚在线",
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
-  },
-  {
-   "name": "🔞淫水机",
-   "url": "https://www.xrbsp.com/api/xml.php"
-  },
-  {
-   "name": "🔞香奶儿",
-   "url": "https://www.gdlsp.com/api/xml.php"
-  },
-  {
-   "name": "🔞白嫖",
-   "url": "https://www.kxgav.com/api/xml.php"
-  },
-  {
-   "name": "饭太💜线路",
-   "url": "http://liucn.cc/box/dc/fan/fan.json"
-  },
-  {
-   "name": "🏄️高天流云",
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-  },
-  {
-   "name": "👽饭太硬👿",
-   "url": "https://www.xn--sss604efuw.cc/tv"
-  },
-  {
-   "name": "🔞155-XML",
-   "url": "https://155api.com/api.php/provide/vod/at/xml"
-  },
-  {
-   "name": "讴歌💜线路",
-   "url": "http://liucn.cc/box/dc/ou/ou.json"
-  },
-  {
-   "name": "🔞美少女",
-   "url": "https://www.msnii.com/api/xml.php"
+   "name": "月光📚在线",
+   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json"
   },
   {
    "name": "盒子迷·91",
    "url": "https://xn--i8sz35d1yr.top/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96"
   },
   {
-   "name": "菜妮💜线路",
-   "url": "http://liucn.cc/box/dc/lns/lns.json"
-  },
-  {
-   "name": "动漫城📚在线",
-   "url": "https://www.yingm.cc/dm/dm.json"
-  },
-  {
-   "name": "qist-fty",
-   "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/fty.json"
-  },
-  {
-   "name": "🔞玉兔",
-   "url": "https://apiyutu.com/api.php/provide/vod/?ac=list"
-  },
-  {
-   "name": "🔞番号XML",
-   "url": "http://fhapi9.com/api.php/provide/vod/at/xml"
-  },
-  {
-   "name": "🔞滴滴资源",
-   "url": "https://api.ddapi.cc/api.php/provide/vod/?ac=list"
-  },
-  {
-   "name": "网盘💜线路",
-   "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json"
-  },
-  {
-   "name": "🔞老色逼",
-   "url": "https://apilsbzy1.com/api.php/provide/vod/?ac=list"
-  },
-  {
-   "name": "🔞155",
-   "url": "https://155api.com/api.php/provide/vod/?ac=list"
-  },
-  {
-   "name": "🔞滴滴XML",
-   "url": "https://api.ddapi.cc/api.php/provide/vod/at/xml"
-  },
-  {
-   "name": "VIP📚在线",
-   "url": "https://jiekou.netlify.app/svip.json"
-  },
-  {
-   "name": "🐟 摸 鱼",
-   "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top/"
+   "name": "⚪PG⚪",
+   "url": "https://www.252035.xyz/p/jsm.json"
   },
   {
    "name": "clun-box·100站",
    "url": "https://clun.top/box.json"
   },
   {
-   "name": "心魔📚在线",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
-  },
-  {
-   "name": "🚀小盒子",
-   "url": "http://xhztv.top/xhz"
-  },
-  {
    "name": "clun-jsm·网盘47/79",
    "url": "https://clun.top/jsm.json"
   },
   {
-   "name": "🔞番号资源",
-   "url": "http://fhapi9.com/api.php/provide/vod/"
+   "name": "🚀香雅情线路",
+   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
   },
   {
    "name": "黄金📚在线",
    "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json"
   },
   {
-   "name": "🔞slapibf",
-   "url": "https://slapibf.com/api.php/provide/vod/?ac=list"
-  },
-  {
-   "name": "🔞鸡坤资源",
-   "url": "https://jkunzyapi.com/api.php/provide/vod/"
-  },
-  {
-   "name": "🚀老刘备线路",
-   "url": "https://raw.liucn.cc/box/m.json"
-  },
-  {
    "name": "寳盒📚在线",
    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json"
   },
   {
-   "name": "菜妮丝💜线路",
-   "url": "https://tv.xn--yhqu5zs87a.top"
+   "name": "🚀蜂蜜线路",
+   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
   },
   {
-   "name": "🔞玉兔资源",
-   "url": "https://yutuzy3.com/api.php/provide/vod/?ac=list"
+   "name": "SVIP📚在线",
+   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
   },
   {
-   "name": "心魔💜线路",
-   "url": "https://ghproxy.net/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
+   "name": "🏄️高天流云",
+   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
   },
   {
-   "name": "🔞黄AV",
-   "url": "https://www.pgxdy.com/api/xml.php"
+   "name": "南风📚在线",
+   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
   },
   {
    "name": "小虎斑📚在线",
    "url": "http://hb.xn--yet24tmq1a.site:25252/%E4%BB%85%E4%BE%9B%E6%B5%8B%E8%AF%95"
   },
   {
-   "name": "🔞辣椒",
-   "url": "https://apilj.com/api.php/provide/vod/at/json/"
-  },
-  {
-   "name": "🔞91麻豆",
-   "url": "https://91md.me/api.php/provide/vod/at/xml/"
-  },
-  {
-   "name": "🔞lbapi",
-   "url": "https://lbapi9.com/api.php/provide/vod/at/xml"
-  },
-  {
-   "name": "sxi-qzz·网盘6/164",
-   "url": "https://tv.sxi.qzz.io/jsm.json"
-  },
-  {
-   "name": "🔞shayu",
-   "url": "https://shayuapi.com/api.php/Seacms/vod/"
-  },
-  {
-   "name": "🔞小黄书·33万部CMS",
-   "url": "https://xiaohuangshu-2f7c.web.zaka.live/api/"
+   "name": "VIP📚在线",
+   "url": "https://jiekou.netlify.app/svip.json"
   }
  ]
 }
