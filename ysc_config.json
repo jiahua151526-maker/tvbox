@@ -1,10 +1,6 @@
 {
  "urls": [
   {
-   "name": "🎬黄果短剧·本机(备)",
-   "url": "http://127.0.0.1:8899/sites.json"
-  },
-  {
    "name": "tvyuan·网盘58/1437",
    "url": "https://cdn.jsdmirror.com/gh/25175/tvyuan@master/tvbox_full.json"
   },
@@ -167,6 +163,10 @@
   {
    "name": "南风📚在线",
    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+  },
+  {
+   "name": "🎬黄果短剧·本机(备)",
+   "url": "http://127.0.0.1:8899/sites.json"
   }
  ]
 }
