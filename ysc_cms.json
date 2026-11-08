@@ -1,0 +1,149 @@
+{
+ "spider": "",
+ "sites": [
+  {
+   "key": "huangguo",
+   "name": "🎬黄果短剧·本机",
+   "type": 1,
+   "api": "http://127.0.0.1:8899",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_aosikazy",
+   "name": "🔞奥斯卡",
+   "type": 1,
+   "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_155api",
+   "name": "🔞155",
+   "type": 1,
+   "api": "https://155api.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apiyutu",
+   "name": "🔞玉兔",
+   "type": 1,
+   "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apilsbzy1",
+   "name": "🔞老色逼",
+   "type": 1,
+   "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_ddapi",
+   "name": "🔞滴滴资源",
+   "type": 1,
+   "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_jkunzy",
+   "name": "🔞鸡坤资源",
+   "type": 1,
+   "api": "https://jkunzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_slapibf",
+   "name": "🔞slapibf",
+   "type": 1,
+   "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_lbapi",
+   "name": "🔞lbapi",
+   "type": 1,
+   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_fhapi9",
+   "name": "🔞番号XML",
+   "type": 0,
+   "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_gdlsp",
+   "name": "🔞香奶儿",
+   "type": 0,
+   "api": "https://www.gdlsp.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_pgxdy",
+   "name": "🔞黄AV",
+   "type": 0,
+   "api": "https://www.pgxdy.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_msnii",
+   "name": "🔞美少女",
+   "type": 0,
+   "api": "https://www.msnii.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_xrbsp",
+   "name": "🔞淫水机",
+   "type": 0,
+   "api": "https://www.xrbsp.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_kxgav",
+   "name": "🔞白嫖",
+   "type": 0,
+   "api": "https://www.kxgav.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_11bat",
+   "name": "🔞辣椒2",
+   "type": 0,
+   "api": "http://api.11bat.com/api.php/provide/vod/at/xml/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  }
+ ]
+}
