@@ -31,7 +31,7 @@
   },
   {
    "key": "one0",
-   "name": "cdn·R18",
+   "name": "🔞cdn·R18",
    "type": 0,
    "api": "https://cdn.jsdmirror.com/gh/KooKang/TVBox18@main/R18.json",
    "searchable": 1,
@@ -40,24 +40,6 @@
   },
   {
    "key": "one1",
-   "name": "cdn·0827",
-   "type": 0,
-   "api": "https://cdn.jsdmirror.com/gh/gaotianliuyun/gao@master/0827.json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "one2",
-   "name": "cdn·adult-2",
-   "type": 0,
-   "api": "https://cdn.jsdmirror.com/gh/chinawiz/tvbox@main/adult-2.json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "one3",
    "name": "cdn·m",
    "type": 0,
    "api": "https://cdn.jsdmirror.com/gh/liu673cn/box@main/m.json",
@@ -66,7 +48,7 @@
    "filterable": 1
   },
   {
-   "key": "one4",
+   "key": "one2",
    "name": "GitHub·tvbox·tvbox_multisource",
    "type": 0,
    "api": "https://gh-proxy.com/raw.githubusercontent.com/anbola/tvbox/main/tvbox_multisource.json",
@@ -75,34 +57,7 @@
    "filterable": 1
   },
   {
-   "key": "one5",
-   "name": "GitHub·TvBox·19",
-   "type": 0,
-   "api": "https://gh-proxy.com/raw.githubusercontent.com/xiongjian83/TvBox/main/19.json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "one6",
-   "name": "GitHub·tvbox·jsm",
-   "type": 0,
-   "api": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/jsm.json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "one7",
-   "name": "GitHub·TvBox·X",
-   "type": 0,
-   "api": "https://gh-proxy.com/raw.githubusercontent.com/xiongjian83/TvBox/main/X.json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "one8",
+   "key": "one3",
    "name": "GitHub·TVBox·XC",
    "type": 0,
    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
@@ -111,97 +66,25 @@
    "filterable": 1
   },
   {
-   "key": "one9",
-   "name": "KStore·aiwex",
+   "key": "one4",
+   "name": "🔞cdn·adult-2",
    "type": 0,
-   "api": "https://9280.kstore.vip/aiwex.json",
+   "api": "https://cdn.jsdmirror.com/gh/chinawiz/tvbox@main/adult-2.json",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
   },
   {
-   "key": "one10",
-   "name": "KStore",
+   "key": "one5",
+   "name": "cdn·0827",
    "type": 0,
-   "api": "https://16151.kstore.space/",
+   "api": "https://cdn.jsdmirror.com/gh/gaotianliuyun/gao@master/0827.json",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
   },
   {
-   "key": "one11",
-   "name": "252035·jsm",
-   "type": 0,
-   "api": "https://www.252035.xyz/p/jsm.json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "one12",
-   "name": "252035·FongMi",
-   "type": 0,
-   "api": "https://www.252035.xyz/z/FongMi.json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "one13",
-   "name": "cdn·9918",
-   "type": 0,
-   "api": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/9918.json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "one14",
-   "name": "cdn·99188",
-   "type": 0,
-   "api": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/99188.json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "one15",
-   "name": "cdn·0821",
-   "type": 0,
-   "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "one16",
-   "name": "cdn·0821",
-   "type": 0,
-   "api": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/0821.json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "one17",
-   "name": "cdn·js",
-   "type": 0,
-   "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "one18",
-   "name": "cdn·m",
-   "type": 0,
-   "api": "https://cdn.jsdelivr.net/gh/letian1650/mybox@main/m.json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "one19",
+   "key": "one6",
    "name": "cdn·jsm",
    "type": 0,
    "api": "https://cdn.jsdmirror.com/gh/qist/tvbox@master/jsm.json",
@@ -210,16 +93,97 @@
    "filterable": 1
   },
   {
-   "key": "one20",
-   "name": "GitHub·tvbox·box",
+   "key": "one7",
+   "name": "cdn·0821",
    "type": 0,
-   "api": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/box.json",
+   "api": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/0821.json",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
   },
   {
-   "key": "one21",
+   "key": "one8",
+   "name": "cdn·0821",
+   "type": 0,
+   "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "one9",
+   "name": "🔞cdn·99188",
+   "type": 0,
+   "api": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/99188.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "one10",
+   "name": "KStore·aiwex",
+   "type": 0,
+   "api": "https://9280.kstore.vip/aiwex.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "one11",
+   "name": "🔞cdn·9918",
+   "type": 0,
+   "api": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/9918.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "one12",
+   "name": "KStore",
+   "type": 0,
+   "api": "https://16151.kstore.space/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "one13",
+   "name": "252035·FongMi",
+   "type": 0,
+   "api": "https://www.252035.xyz/z/FongMi.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "one14",
+   "name": "252035·jsm",
+   "type": 0,
+   "api": "https://www.252035.xyz/p/jsm.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "one15",
+   "name": "GitHub·tvbox·jsm",
+   "type": 0,
+   "api": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/jsm.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "one16",
+   "name": "GitHub·TvBox·X",
+   "type": 0,
+   "api": "https://gh-proxy.com/raw.githubusercontent.com/xiongjian83/TvBox/main/X.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "one17",
    "name": "GitHub·tvbox·aa",
    "type": 0,
    "api": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/aa.json",
@@ -228,7 +192,25 @@
    "filterable": 1
   },
   {
-   "key": "one22",
+   "key": "one18",
+   "name": "GitHub·TvBox·19",
+   "type": 0,
+   "api": "https://gh-proxy.com/raw.githubusercontent.com/xiongjian83/TvBox/main/19.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "one19",
+   "name": "GitHub·tvbox·box",
+   "type": 0,
+   "api": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/box.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "one20",
    "name": "GitHub·tvbox-config·tvbox_recommended",
    "type": 0,
    "api": "https://gh-proxy.com/raw.githubusercontent.com/hebijunge/tvbox-config/main/tvbox_recommended.json",
@@ -237,19 +219,37 @@
    "filterable": 1
   },
   {
-   "key": "one23",
-   "name": "hb·仅供测试",
+   "key": "one21",
+   "name": "cdn·api",
    "type": 0,
-   "api": "http://hb.xn--yet24tmq1a.site:25252/仅供测试",
+   "api": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/xiaosa/api.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "one22",
+   "name": "cdn·m",
+   "type": 0,
+   "api": "https://cdn.jsdelivr.net/gh/letian1650/mybox@main/m.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "one23",
+   "name": "cdn·js",
+   "type": 0,
+   "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
   },
   {
    "key": "one24",
-   "name": "cdn·api",
+   "name": "hb·仅供测试",
    "type": 0,
-   "api": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/xiaosa/api.json",
+   "api": "http://hb.xn--yet24tmq1a.site:25252/仅供测试",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -279,36 +279,28 @@
    "url": "https://cdn.jsdmirror.com/gh/tushen6/Tomorrow@master/lmw.json"
   },
   {
-   "name": "月光宝盒·fast",
-   "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
-  },
-  {
    "name": "月光宝盒·dc",
    "url": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json"
+  },
+  {
+   "name": "月光宝盒·fast",
+   "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
   },
   {
    "name": "z·123",
    "url": "http://z.qiqiv.cn/123"
   },
   {
-   "name": "星火·dc",
-   "url": "http://xhztv.top/dc"
-  },
-  {
    "name": "xmbjm·dc",
    "url": "http://xmbjm.fh4u.org/dc.txt"
   },
   {
-   "name": "cdn·R18",
+   "name": "星火·dc",
+   "url": "http://xhztv.top/dc"
+  },
+  {
+   "name": "🔞cdn·R18",
    "url": "https://cdn.jsdmirror.com/gh/KooKang/TVBox18@main/R18.json"
-  },
-  {
-   "name": "cdn·0827",
-   "url": "https://cdn.jsdmirror.com/gh/gaotianliuyun/gao@master/0827.json"
-  },
-  {
-   "name": "cdn·adult-2",
-   "url": "https://cdn.jsdmirror.com/gh/chinawiz/tvbox@main/adult-2.json"
   },
   {
    "name": "cdn·m",
@@ -319,8 +311,52 @@
    "url": "https://gh-proxy.com/raw.githubusercontent.com/anbola/tvbox/main/tvbox_multisource.json"
   },
   {
-   "name": "GitHub·TvBox·19",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/xiongjian83/TvBox/main/19.json"
+   "name": "GitHub·TVBox·XC",
+   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+  },
+  {
+   "name": "🔞cdn·adult-2",
+   "url": "https://cdn.jsdmirror.com/gh/chinawiz/tvbox@main/adult-2.json"
+  },
+  {
+   "name": "cdn·0827",
+   "url": "https://cdn.jsdmirror.com/gh/gaotianliuyun/gao@master/0827.json"
+  },
+  {
+   "name": "cdn·jsm",
+   "url": "https://cdn.jsdmirror.com/gh/qist/tvbox@master/jsm.json"
+  },
+  {
+   "name": "cdn·0821",
+   "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/0821.json"
+  },
+  {
+   "name": "cdn·0821",
+   "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json"
+  },
+  {
+   "name": "🔞cdn·99188",
+   "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/99188.json"
+  },
+  {
+   "name": "KStore·aiwex",
+   "url": "https://9280.kstore.vip/aiwex.json"
+  },
+  {
+   "name": "🔞cdn·9918",
+   "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/9918.json"
+  },
+  {
+   "name": "KStore",
+   "url": "https://16151.kstore.space/"
+  },
+  {
+   "name": "252035·FongMi",
+   "url": "https://www.252035.xyz/z/FongMi.json"
+  },
+  {
+   "name": "252035·jsm",
+   "url": "https://www.252035.xyz/p/jsm.json"
   },
   {
    "name": "GitHub·tvbox·jsm",
@@ -331,72 +367,36 @@
    "url": "https://gh-proxy.com/raw.githubusercontent.com/xiongjian83/TvBox/main/X.json"
   },
   {
-   "name": "GitHub·TVBox·XC",
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+   "name": "GitHub·tvbox·aa",
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/aa.json"
   },
   {
-   "name": "KStore·aiwex",
-   "url": "https://9280.kstore.vip/aiwex.json"
-  },
-  {
-   "name": "KStore",
-   "url": "https://16151.kstore.space/"
-  },
-  {
-   "name": "252035·jsm",
-   "url": "https://www.252035.xyz/p/jsm.json"
-  },
-  {
-   "name": "252035·FongMi",
-   "url": "https://www.252035.xyz/z/FongMi.json"
-  },
-  {
-   "name": "cdn·9918",
-   "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/9918.json"
-  },
-  {
-   "name": "cdn·99188",
-   "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/99188.json"
-  },
-  {
-   "name": "cdn·0821",
-   "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json"
-  },
-  {
-   "name": "cdn·0821",
-   "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/0821.json"
-  },
-  {
-   "name": "cdn·js",
-   "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json"
-  },
-  {
-   "name": "cdn·m",
-   "url": "https://cdn.jsdelivr.net/gh/letian1650/mybox@main/m.json"
-  },
-  {
-   "name": "cdn·jsm",
-   "url": "https://cdn.jsdmirror.com/gh/qist/tvbox@master/jsm.json"
+   "name": "GitHub·TvBox·19",
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/xiongjian83/TvBox/main/19.json"
   },
   {
    "name": "GitHub·tvbox·box",
    "url": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/box.json"
   },
   {
-   "name": "GitHub·tvbox·aa",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/aa.json"
-  },
-  {
    "name": "GitHub·tvbox-config·tvbox_recommended",
    "url": "https://gh-proxy.com/raw.githubusercontent.com/hebijunge/tvbox-config/main/tvbox_recommended.json"
   },
   {
-   "name": "hb·仅供测试",
-   "url": "http://hb.xn--yet24tmq1a.site:25252/仅供测试"
-  },
-  {
    "name": "cdn·api",
    "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/xiaosa/api.json"
+  },
+  {
+   "name": "cdn·m",
+   "url": "https://cdn.jsdelivr.net/gh/letian1650/mybox@main/m.json"
+  },
+  {
+   "name": "cdn·js",
+   "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json"
+  },
+  {
+   "name": "hb·仅供测试",
+   "url": "http://hb.xn--yet24tmq1a.site:25252/仅供测试"
   },
   {
    "name": "xn--i8sz35d1yr·%E7%A6%81%E6%A",
