@@ -1,0 +1,716 @@
+{
+ "spider": "",
+ "sites": [
+  {
+   "key": "cms_cjlziapico_y8rqhm",
+   "name": "· 🐝量子资源",
+   "type": 1,
+   "api": "http://cj.lziapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_1542191172_1p884m",
+   "name": "· 影视 • 建安",
+   "type": 1,
+   "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_cjlziapico_y8rqhm",
+   "name": "· 量子|点播",
+   "type": 1,
+   "api": "https://cj.lziapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_caijidyttz_1mv0yp",
+   "name": "· 🍀｜天堂｜采集",
+   "type": 1,
+   "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_caijidyttz_y8rqhm",
+   "name": "· 影视 • 电影天堂",
+   "type": 1,
+   "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_cjffzyapic_y8rqhm",
+   "name": "· 非凡|点播",
+   "type": 1,
+   "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_ffzytv_y8rqhm",
+   "name": "· 影视 • 非凡[直连]",
+   "type": 1,
+   "api": "http://ffzy.tv/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_360zycom_y8rqhm",
+   "name": "· 360｜采集",
+   "type": 1,
+   "api": "https://360zy.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_360zycom_11h4nx",
+   "name": "· ⏱┃三六┃资源",
+   "type": 1,
+   "api": "https://360zy.com/api.php/seaxml/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_aosikazyco_y8rqhm",
+   "name": "· 奥斯卡",
+   "type": 1,
+   "api": "https://aosikazy.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_aosikazyco_8blcev",
+   "name": "🔞奥斯卡",
+   "type": 1,
+   "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_jiduo31165_1unv20",
+   "name": "· ⚽┃酷克┃体育",
+   "type": 1,
+   "api": "http://jiduo.3116598.xyz/PHP/pkty.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_wwwiqiyizy_y8rqhm",
+   "name": "· iQIYI｜采集",
+   "type": 1,
+   "api": "https://www.iqiyizyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apixinlang_1ce9l5",
+   "name": "· 🐝新浪资源",
+   "type": 1,
+   "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_wwwhongniu_y8rqhm",
+   "name": "· 红牛|点播",
+   "type": 1,
+   "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_tyyszycom_y8rqhm",
+   "name": "· 影视 • 天涯",
+   "type": 1,
+   "api": "http://tyyszy.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_wwwgdlspco_1yewqo",
+   "name": "🔞香奶儿",
+   "type": 0,
+   "api": "https://www.gdlsp.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_wwwmsniico_1yewqo",
+   "name": "🔞美少女",
+   "type": 0,
+   "api": "https://www.msnii.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_wwwkxgavco_1yewqo",
+   "name": "🔞白嫖",
+   "type": 0,
+   "api": "https://www.kxgav.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_wwwxrbspco_1yewqo",
+   "name": "🔞淫水机",
+   "type": 0,
+   "api": "https://www.xrbsp.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_sdzyapicom_y8rqhm",
+   "name": "· 闪电|点播",
+   "type": 1,
+   "api": "http://sdzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_api11batco_1j4fk5",
+   "name": "🔞辣椒2",
+   "type": 0,
+   "api": "http://api.11bat.com/api.php/provide/vod/at/xml/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_caijidyttz_1j4fk5",
+   "name": "· 天堂｜采集",
+   "type": 0,
+   "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_zuidazyme_y8rqhm",
+   "name": "· 最大|点播",
+   "type": 1,
+   "api": "http://zuidazy.me/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_155apicom_1j4fk5",
+   "name": "🔞155-XML",
+   "type": 0,
+   "api": "https://155api.com/api.php/provide/vod/at/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_fhapi9com_1j4fk5",
+   "name": "🔞番号XML",
+   "type": 0,
+   "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_155apicom_8blcev",
+   "name": "🔞155",
+   "type": 1,
+   "api": "https://155api.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_p2100net_y8rqhm",
+   "name": "· 飘零|点播",
+   "type": 1,
+   "api": "https://p2100.net/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_155apicom_y8rqhm",
+   "name": "· 155",
+   "type": 1,
+   "api": "https://155api.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_suoniapico_1j4fk5",
+   "name": "· 影视 • 索尼[直连]",
+   "type": 0,
+   "api": "https://suoniapi.com/api.php/provide/vod/at/xml/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_suoniapico_ha76",
+   "name": "· 索尼┃资源",
+   "type": 1,
+   "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_suoniapico_y8rqhm",
+   "name": "· 🐉┃索尼┃高清",
+   "type": 1,
+   "api": "https://suoniapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apiyutucom_y8rqhm",
+   "name": "· 玉兔",
+   "type": 1,
+   "api": "https://apiyutu.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apiddapicc_y8rqhm",
+   "name": "· 滴滴资源",
+   "type": 1,
+   "api": "https://api.ddapi.cc/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apiyutucom_8blcev",
+   "name": "🔞玉兔",
+   "type": 1,
+   "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apiniuniuz_y8rqhm",
+   "name": "· 牛牛|点播",
+   "type": 1,
+   "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_soyinpaixy_1txhab",
+   "name": "· 盘搜|集合",
+   "type": 1,
+   "api": "http://so.yinpai.xyz/wanpan.php?type=quark|uc|baidu|tianyi|xunlei|123",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apiwujinap_y8rqhm",
+   "name": "· 无尽｜采集",
+   "type": 1,
+   "api": "https://api.wujinapi.net/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_wwwmdzyapi_y8rqhm",
+   "name": "· 墨斗|点播",
+   "type": 1,
+   "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_jszyapicom_y8rqhm",
+   "name": "· 极速|点播",
+   "type": 1,
+   "api": "https://jszyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_sdzyapicom_y8rqhm",
+   "name": "· 闪电｜采集",
+   "type": 1,
+   "api": "https://sdzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apiddapicc_8blcev",
+   "name": "🔞滴滴资源",
+   "type": 1,
+   "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_lbapi9com_1j4fk5",
+   "name": "🔞lbapi",
+   "type": 0,
+   "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_jkunzyapic_y8rqhm",
+   "name": "🔞鸡坤资源",
+   "type": 1,
+   "api": "https://jkunzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apiddapicc_1j4fk5",
+   "name": "🔞滴滴XML",
+   "type": 0,
+   "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apiapibdzy_y8rqhm",
+   "name": "· 🎏百度┃采集",
+   "type": 1,
+   "api": "https://api.apibdzy.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apixinlang_1ce9l5",
+   "name": "· 新浪|点播",
+   "type": 1,
+   "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_hhzyapicom_y8rqhm",
+   "name": "· 🦊火狐采集",
+   "type": 1,
+   "api": "https://hhzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_caijimodua_y8rqhm",
+   "name": "· 魔都|点播",
+   "type": 1,
+   "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apiwujinap_y8rqhm",
+   "name": "· 无尽|点播",
+   "type": 1,
+   "api": "https://api.wujinapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_cjyayazyne_y8rqhm",
+   "name": "· 丫丫|点播",
+   "type": 1,
+   "api": "https://cj.yayazy.net/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_yayazy2com_y8rqhm",
+   "name": "· 丫丫｜采集",
+   "type": 1,
+   "api": "https://yayazy2.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apiwsyzyne_y8rqhm",
+   "name": "· 🐝┃纯净┃采集",
+   "type": 1,
+   "api": "https://api.wsyzy.net/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_caijikuaic_y8rqhm",
+   "name": "· 快车｜采集",
+   "type": 1,
+   "api": "https://caiji.kuaichezy.org/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_appbfzyapi_y8rqhm",
+   "name": "· 🌪️暴风影音",
+   "type": 1,
+   "api": "https://app.bfzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_dadiapicom_hywlkk",
+   "name": "· 大地",
+   "type": 0,
+   "api": "https://dadiapi.com/api.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_slapibfcom_y8rqhm",
+   "name": "· 森林",
+   "type": 1,
+   "api": "https://slapibf.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_xsdsdzyapi_y8rqhm",
+   "name": "· 🐼闪电资源网",
+   "type": 1,
+   "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_wwwpgxdyco_1yewqo",
+   "name": "🔞黄AV",
+   "type": 0,
+   "api": "https://www.pgxdy.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_jyzyapicom_13bwcp",
+   "name": "· 🐝金鹰资源",
+   "type": 0,
+   "api": "https://jyzyapi.com/provide/vod/at/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_tyyszyapic_y8rqhm",
+   "name": "· 天涯｜采集",
+   "type": 1,
+   "api": "https://tyyszyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apilsbzy1c_8blcev",
+   "name": "🔞老色逼",
+   "type": 1,
+   "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_lbapi9com_8blcev",
+   "name": "🔞lbapi",
+   "type": 1,
+   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apilsbzy1c_y8rqhm",
+   "name": "· 老色逼资源站",
+   "type": 1,
+   "api": "https://apilsbzy1.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_slapibfcom_8blcev",
+   "name": "🔞slapibf",
+   "type": 1,
+   "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_bfzyapicom_y8rqhm",
+   "name": "· 暴风|点播",
+   "type": 1,
+   "api": "https://bfzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_zuidaxyz_y8rqhm",
+   "name": "· 最大｜采集",
+   "type": 1,
+   "api": "https://zuida.xyz/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_subocaijic_y8rqhm",
+   "name": "· 速博|点播",
+   "type": 1,
+   "api": "https://subocaiji.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_wwwhuyaapi_y8rqhm",
+   "name": "· 虎牙|点播",
+   "type": 1,
+   "api": "https://www.huyaapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_wwwpgxdyco_yg8of7",
+   "name": "· *黄AV资源",
+   "type": 1,
+   "api": "https://www.pgxdy.com/api/json.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_lbapi9com_y8rqhm",
+   "name": "· 老鸭2",
+   "type": 1,
+   "api": "https://lbapi9.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_apiguangsu_y8rqhm",
+   "name": "· 🐝光速资源",
+   "type": 1,
+   "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_jinyingzyc_y8rqhm",
+   "name": "· 金鹰|点播",
+   "type": 1,
+   "api": "https://jinyingzy.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_taopianapi_1hmjmu",
+   "name": "· 🕹️淘片┃采集",
+   "type": 1,
+   "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_lzizy1com_y8rqhm",
+   "name": "· 🥑┃量子┃资源",
+   "type": 1,
+   "api": "https://lzizy1.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_wwwhuyaapi_1h3qfn",
+   "name": "· 🐯虎牙采集",
+   "type": 1,
+   "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_fhapi9com_y8rqhm",
+   "name": "🔞番号资源",
+   "type": 1,
+   "api": "http://fhapi9.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_1270018899_45h",
+   "name": "🎬黄果短剧",
+   "type": 1,
+   "api": "http://127.0.0.1:8899",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "cms_1270018899_122ss0",
+   "name": "🎬黄果短剧·本机",
+   "type": 1,
+   "api": "http://127.0.0.1:8899/cms.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  }
+ ]
+}
