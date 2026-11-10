@@ -1,167 +1,56 @@
 {
  "spider": "",
- "wall": "**",
  "sites": [
   {
-   "key": "cms0",
-   "name": "zmcj88·api",
-   "type": 3,
-   "api": "http://zmcj88.com/api",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms1",
-   "name": "jcspcj8·api",
-   "type": 3,
-   "api": "http://jcspcj8.com/api",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "cms2",
-   "name": "xiaohuangshu-2f7c·api",
-   "type": 3,
+   "key": "pool_jig0zn",
+   "name": "📕小黄书",
+   "type": 1,
    "api": "https://xiaohuangshu-2f7c.web.zaka.live/api/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "pool_ynf7om",
+   "name": "💞黑色影视💞",
+   "type": 1,
+   "api": "https://heiliaozyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "pool_gknxm9",
+   "name": "62-秒播",
+   "type": 1,
+   "api": "https://api.zeqaht.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "pool_6ji5k7",
+   "name": "[137ms|zy] 🍊小鸡",
+   "type": 1,
+   "api": "https://api.xjzyapi.com/provide/vod",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
   }
  ],
- "urls": [
-  {
-   "name": "🔞cdn·R18",
-   "url": "https://cdn.jsdmirror.com/gh/KooKang/TVBox18@main/R18.json"
-  },
-  {
-   "name": "cdn·lmw",
-   "url": "https://cdn.jsdmirror.com/gh/tushen6/Tomorrow@master/lmw.json"
-  },
-  {
-   "name": "cdn·m",
-   "url": "https://cdn.jsdmirror.com/gh/liu673cn/box@main/m.json"
-  },
-  {
-   "name": "GitHub·tvbox·tvbox_multisource",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/anbola/tvbox/main/tvbox_multisource.json"
-  },
-  {
-   "name": "GitHub·TVBox·XC",
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-  },
-  {
-   "name": "🔞cdn·adult-2",
-   "url": "https://cdn.jsdmirror.com/gh/chinawiz/tvbox@main/adult-2.json"
-  },
-  {
-   "name": "cdn·0827",
-   "url": "https://cdn.jsdmirror.com/gh/gaotianliuyun/gao@master/0827.json"
-  },
-  {
-   "name": "cdn·jsm",
-   "url": "https://cdn.jsdmirror.com/gh/qist/tvbox@master/jsm.json"
-  },
-  {
-   "name": "cdn·0821",
-   "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/0821.json"
-  },
-  {
-   "name": "cdn·0821",
-   "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json"
-  },
-  {
-   "name": "🔞cdn·99188",
-   "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/99188.json"
-  },
-  {
-   "name": "KStore·aiwex",
-   "url": "https://9280.kstore.vip/aiwex.json"
-  },
-  {
-   "name": "🔞cdn·9918",
-   "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/9918.json"
-  },
-  {
-   "name": "KStore",
-   "url": "https://16151.kstore.space/"
-  },
-  {
-   "name": "月光宝盒·dc",
-   "url": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json"
-  },
-  {
-   "name": "252035·FongMi",
-   "url": "https://www.252035.xyz/z/FongMi.json"
-  },
-  {
-   "name": "252035·jsm",
-   "url": "https://www.252035.xyz/p/jsm.json"
-  },
-  {
-   "name": "月光宝盒·fast",
-   "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
-  },
-  {
-   "name": "GitHub·tvbox·jsm",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/jsm.json"
-  },
-  {
-   "name": "GitHub·TvBox·X",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/xiongjian83/TvBox/main/X.json"
-  },
-  {
-   "name": "GitHub·tvbox·aa",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/aa.json"
-  },
-  {
-   "name": "GitHub·TvBox·19",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/xiongjian83/TvBox/main/19.json"
-  },
-  {
-   "name": "GitHub·tvbox·box",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/cluntop/tvbox/main/box.json"
-  },
-  {
-   "name": "GitHub·tvbox-config·tvbox_recommended",
-   "url": "https://gh-proxy.com/raw.githubusercontent.com/hebijunge/tvbox-config/main/tvbox_recommended.json"
-  },
-  {
-   "name": "z·123",
-   "url": "http://z.qiqiv.cn/123"
-  },
-  {
-   "name": "xmbjm·dc",
-   "url": "http://xmbjm.fh4u.org/dc.txt"
-  },
-  {
-   "name": "星火·dc",
-   "url": "http://xhztv.top/dc"
-  },
-  {
-   "name": "cdn·api",
-   "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/xiaosa/api.json"
-  },
-  {
-   "name": "cdn·m",
-   "url": "https://cdn.jsdelivr.net/gh/letian1650/mybox@main/m.json"
-  },
-  {
-   "name": "cdn·js",
-   "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json"
-  },
-  {
-   "name": "hb·仅供测试",
-   "url": "http://hb.xn--yet24tmq1a.site:25252/仅供测试"
-  },
-  {
-   "name": "xn--i8sz35d1yr·%E7%A6%81%E6%A",
-   "url": "https://xn--i8sz35d1yr.top/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96"
-  },
-  {
-   "name": "xn--nsr30bl8nb2kyt7a8vs·tv",
-   "url": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv"
-  }
+ "lives": [],
+ "parses": [],
+ "flags": [
+  "youku",
+  "qq",
+  "iqiyi",
+  "qiyi",
+  "letv",
+  "sohu",
+  "tudou",
+  "pptv",
+  "mgtv",
+  "wasu",
+  "bilibili"
  ]
 }
