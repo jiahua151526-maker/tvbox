@@ -3027,15 +3027,6 @@
    "filterable": 1
   },
   {
-   "key": "caiji_a758",
-   "name": "电影天堂",
-   "type": 1,
-   "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
    "key": "vv001",
    "name": "️💃女優💃",
    "type": 4,
@@ -3511,6 +3502,15 @@
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 1
+  },
+  {
+   "key": "caiji_a758",
+   "name": "电影天堂",
+   "type": 1,
+   "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 0
   },
   {
    "key": "电影天堂-4",
