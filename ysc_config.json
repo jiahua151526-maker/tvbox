@@ -45,6 +45,42 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
+  },
+  {
+   "key": "pool_dvb72",
+   "name": "📕小黄书",
+   "type": 1,
+   "api": "https://xiaohuangshu.web.zaka.live/api/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "pool_383cwj",
+   "name": "🎬黄果短剧·本机",
+   "type": 1,
+   "api": "http://127.0.0.1:8899/cms.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "pool_zc61lx",
+   "name": "📕小黄书·备用",
+   "type": 1,
+   "api": "https://xhs.web.zaka.live/api/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "pool_vlwuq7",
+   "name": "🎬黄果短剧",
+   "type": 1,
+   "api": "http://127.0.0.1:8899",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
   }
  ],
  "lives": [],
