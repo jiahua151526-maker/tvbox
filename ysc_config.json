@@ -1,51 +1,435 @@
 {
  "spider": "",
  "wall": "**",
- "sites": [],
+ "sites": [
+  {
+   "key": "single0",
+   "name": "KStore",
+   "type": 3,
+   "api": "https://16151.kstore.space/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single1",
+   "name": "xn--i8sz35d1yr·%E7%A6%81%E6%A",
+   "type": 3,
+   "api": "https://xn--i8sz35d1yr.top/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single2",
+   "name": "hb·仅供测试",
+   "type": 3,
+   "api": "http://hb.xn--yet24tmq1a.site:25252/仅供测试",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single3",
+   "name": "KStore·wmz",
+   "type": 3,
+   "api": "https://8815.kstore.vip/tvbox/wmz",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single4",
+   "name": "zmcj88·sapi",
+   "type": 3,
+   "api": "http://zmcj88.com/sapi",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single5",
+   "name": "xn--nsr30bl8nb2kyt7a8vs·tv",
+   "type": 3,
+   "api": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single6",
+   "name": "xn--sss604efuw·tv",
+   "type": 3,
+   "api": "https://www.xn--sss604efuw.cc/tv",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single7",
+   "name": "120·dsp",
+   "type": 3,
+   "api": "http://120.53.102.254/dsp/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single8",
+   "name": "xn--z7x900a·tv",
+   "type": 3,
+   "api": "http://xn--z7x900a.net/tv",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single9",
+   "name": "xn--ihq545aq7p",
+   "type": 3,
+   "api": "http://www.xn--ihq545aq7p.com/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single10",
+   "name": "tangsan·tv",
+   "type": 3,
+   "api": "https://www.tangsan.fun/tv",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single11",
+   "name": "xn--dkw0c·m",
+   "type": 3,
+   "api": "https://xn--dkw0c.v.nxog.top/m/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single12",
+   "name": "caiji25·xml",
+   "type": 3,
+   "api": "http://www.caiji25.com/home/cjapi/p0as/mc/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single13",
+   "name": "xx55zyapi·xml",
+   "type": 3,
+   "api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single14",
+   "name": "xjjzyapi·m3u8",
+   "type": 3,
+   "api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml/m3u8",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single15",
+   "name": "sdszyapi·xml",
+   "type": 3,
+   "api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single16",
+   "name": "caiji26·xml",
+   "type": 3,
+   "api": "http://caiji26.com/home/cjapi/p0g8/mc/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single17",
+   "name": "caiji05·xml",
+   "type": 3,
+   "api": "https://www.caiji05.com/home/cjapi/cfda/mc/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single18",
+   "name": "dmmapi·xml",
+   "type": 3,
+   "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single19",
+   "name": "ggmmzy·xml",
+   "type": 3,
+   "api": "http://www.ggmmzy.com:9999/inc/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single20",
+   "name": "f2dcj6·sapi",
+   "type": 3,
+   "api": "http://f2dcj6.com/sapi/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single21",
+   "name": "sdszyapi·xml",
+   "type": 3,
+   "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single22",
+   "name": "xjjzyapi·xml",
+   "type": 3,
+   "api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single23",
+   "name": "52zyapi·xml",
+   "type": 3,
+   "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single24",
+   "name": "sldcaiji·json",
+   "type": 3,
+   "api": "https://www.sldcaiji.com/home/cjapi/s6da/mc10/vod/json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single25",
+   "name": "caiji21·xml",
+   "type": 3,
+   "api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single26",
+   "name": "caiji22·xml",
+   "type": 3,
+   "api": "https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single27",
+   "name": "caiji23·xml",
+   "type": 3,
+   "api": "https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single28",
+   "name": "caiji24·xml",
+   "type": 3,
+   "api": "http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single29",
+   "name": "caiji25·xml",
+   "type": 3,
+   "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single30",
+   "name": "caiji26·xml",
+   "type": 3,
+   "api": "http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single31",
+   "name": "jgczyapi·xml",
+   "type": 3,
+   "api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single32",
+   "name": "xx55zyapi·xml",
+   "type": 3,
+   "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single33",
+   "name": "yrqcaiji·json",
+   "type": 3,
+   "api": "http://www.yrqcaiji.com/home/cjapi/s6c7/mc10/vod/json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single34",
+   "name": "xcncaiji·json",
+   "type": 3,
+   "api": "http://xcncaiji.com/home/cjapi/s6bb/mc10/vod/json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single35",
+   "name": "dmmapi·xml",
+   "type": 3,
+   "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single36",
+   "name": "caiji10·xml",
+   "type": 3,
+   "api": "https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single37",
+   "name": "caiji09·xml",
+   "type": 3,
+   "api": "https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single38",
+   "name": "caiji08·xml",
+   "type": 3,
+   "api": "https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single39",
+   "name": "caiji07·xml",
+   "type": 3,
+   "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single40",
+   "name": "caiji06·xml",
+   "type": 3,
+   "api": "https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single41",
+   "name": "caiji05·xml",
+   "type": 3,
+   "api": "https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single42",
+   "name": "caiji04·xml",
+   "type": 3,
+   "api": "https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single43",
+   "name": "caiji03·xml",
+   "type": 3,
+   "api": "https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single44",
+   "name": "caiji02·xml",
+   "type": 3,
+   "api": "https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single45",
+   "name": "caiji01·xml",
+   "type": 3,
+   "api": "https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "single46",
+   "name": "caiji25·json",
+   "type": 3,
+   "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  }
+ ],
  "urls": [
   {
-   "name": "cdn·lmw",
-   "url": "https://cdn.jsdmirror.com/gh/tushen6/Tomorrow@master/lmw.json"
-  },
-  {
-   "name": "月光宝盒·dc",
-   "url": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json"
-  },
-  {
-   "name": "月光宝盒·fast",
-   "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
-  },
-  {
-   "name": "z·123",
-   "url": "http://z.qiqiv.cn/123"
-  },
-  {
-   "name": "星火·dc",
-   "url": "http://xhztv.top/dc"
-  },
-  {
-   "name": "xmbjm·dc",
-   "url": "http://xmbjm.fh4u.org/dc.txt"
-  },
-  {
-   "name": "101·20501603392652",
-   "url": "http://101.42.104.195:7123/api/tvbox/source/2050160339265261568?token=OLFNw46CpJpG9fP2Y2zBW0tvbcLJ9Si2"
-  },
-  {
-   "name": "newtv·jubaba?token=f",
-   "url": "https://newtv.ggff.net/jubaba?token=fhJadO1R"
-  },
-  {
-   "name": "KStore·one",
-   "url": "https://9877.kstore.space/one.json"
-  },
-  {
-   "name": "cdn·tvbox",
-   "url": "http://cdn.qiaoji8.com/tvbox.json"
-  },
-  {
-   "name": "gitlab·index",
-   "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
+   "name": "黄果本机",
+   "url": "http://127.0.0.1:8899/sites.json"
   }
  ]
 }
