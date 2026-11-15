@@ -4,28 +4,8 @@
  "sites": [],
  "urls": [
   {
-   "name": "cdn·lmw",
-   "url": "https://cdn.jsdmirror.com/gh/tushen6/Tomorrow@master/lmw.json"
-  },
-  {
-   "name": "月光宝盒·fast",
-   "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
-  },
-  {
-   "name": "月光宝盒·dc",
-   "url": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json"
-  },
-  {
-   "name": "z·123",
-   "url": "http://z.qiqiv.cn/123"
-  },
-  {
-   "name": "xmbjm·dc",
-   "url": "http://xmbjm.fh4u.org/dc.txt"
-  },
-  {
-   "name": "星火·dc",
-   "url": "http://xhztv.top/dc"
+   "name": "黄果本机",
+   "url": "http://127.0.0.1:8899/sites.json"
   }
  ]
 }
