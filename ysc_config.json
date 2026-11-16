@@ -4,80 +4,16 @@
  "sites": [],
  "urls": [
   {
-   "name": "月光宝盒·dc",
-   "url": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json"
+   "name": "KStore",
+   "url": "https://16151.kstore.space/"
   },
   {
-   "name": "月光宝盒·fast",
-   "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
+   "name": "hb·仅供测试",
+   "url": "http://hb.xn--yet24tmq1a.site:25252/仅供测试"
   },
   {
-   "name": "z·123",
-   "url": "http://z.qiqiv.cn/123"
-  },
-  {
-   "name": "xmbjm·dc",
-   "url": "http://xmbjm.fh4u.org/dc.txt"
-  },
-  {
-   "name": "星火·dc",
-   "url": "http://xhztv.top/dc"
-  },
-  {
-   "name": "cdn·lmw",
-   "url": "https://cdn.jsdmirror.com/gh/tushen6/Tomorrow@master/lmw.json"
-  },
-  {
-   "name": "KStore·wmz",
-   "url": "https://8815.kstore.vip/tvbox/wmz"
-  },
-  {
-   "name": "xn--sss604efuw·tv",
-   "url": "https://www.xn--sss604efuw.cc/tv"
-  },
-  {
-   "name": "xn--nsr30bl8nb2kyt7a8vs·tv",
-   "url": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv"
-  },
-  {
-   "name": "101·20501603392652",
-   "url": "http://101.42.104.195:7123/api/tvbox/source/2050160339265261568?token=OLFNw46CpJpG9fP2Y2zBW0tvbcLJ9Si2"
-  },
-  {
-   "name": "newtv·jubaba?token=f",
-   "url": "https://newtv.ggff.net/jubaba?token=fhJadO1R"
-  },
-  {
-   "name": "120·dsp",
-   "url": "http://120.53.102.254/dsp/"
-  },
-  {
-   "name": "xn--z7x900a·tv",
-   "url": "http://xn--z7x900a.net/tv"
-  },
-  {
-   "name": "KStore·one",
-   "url": "https://9877.kstore.space/one.json"
-  },
-  {
-   "name": "xn--ihq545aq7p",
-   "url": "http://www.xn--ihq545aq7p.com/"
-  },
-  {
-   "name": "tangsan·tv",
-   "url": "https://www.tangsan.fun/tv"
-  },
-  {
-   "name": "cdn·tvbox",
-   "url": "http://cdn.qiaoji8.com/tvbox.json"
-  },
-  {
-   "name": "xn--dkw0c·m",
-   "url": "https://xn--dkw0c.v.nxog.top/m/"
-  },
-  {
-   "name": "gitlab·index",
-   "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
+   "name": "xn--i8sz35d1yr·%E7%A6%81%E6%A",
+   "url": "https://xn--i8sz35d1yr.top/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96"
   }
  ]
 }
