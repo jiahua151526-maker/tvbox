@@ -4,8 +4,36 @@
  "sites": [],
  "urls": [
   {
-   "name": "黄果兜底",
-   "url": "https://fastly.jsdelivr.net/gh/jiahua151526-maker/tvbox@main/ysc_cms.json"
+   "name": "月光宝盒·dc",
+   "url": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json"
+  },
+  {
+   "name": "月光宝盒·fast",
+   "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
+  },
+  {
+   "name": "xmbjm·dc",
+   "url": "http://xmbjm.fh4u.org/dc.txt"
+  },
+  {
+   "name": "z·123",
+   "url": "http://z.qiqiv.cn/123"
+  },
+  {
+   "name": "星火·dc",
+   "url": "http://xhztv.top/dc"
+  },
+  {
+   "name": "101·20501603392652",
+   "url": "http://101.42.104.195:7123/api/tvbox/source/2050160339265261568?token=OLFNw46CpJpG9fP2Y2zBW0tvbcLJ9Si2"
+  },
+  {
+   "name": "newtv·jubaba?token=f",
+   "url": "https://newtv.ggff.net/jubaba?token=fhJadO1R"
+  },
+  {
+   "name": "120·dsp",
+   "url": "http://120.53.102.254/dsp/"
   }
  ]
 }
