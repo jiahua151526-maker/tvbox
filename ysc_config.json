@@ -12,7 +12,7 @@
    "filterable": 1,
    "_ok": true,
    "_n": 20,
-   "_ms": 452
+   "_ms": 447
   },
   {
    "key": "cms1",
@@ -24,7 +24,7 @@
    "filterable": 1,
    "_ok": true,
    "_n": 50,
-   "_ms": 560
+   "_ms": 621
   },
   {
    "key": "cms2",
@@ -36,7 +36,7 @@
    "filterable": 1,
    "_ok": true,
    "_n": 20,
-   "_ms": 5860
+   "_ms": 1815
   },
   {
    "key": "cms3",
@@ -48,7 +48,7 @@
    "filterable": 1,
    "_ok": true,
    "_n": 20,
-   "_ms": 23694
+   "_ms": 2061
   }
  ],
  "urls": []
