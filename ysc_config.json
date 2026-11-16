@@ -12,7 +12,7 @@
    "filterable": 1,
    "_ok": true,
    "_n": 20,
-   "_ms": 447
+   "_ms": 481
   },
   {
    "key": "cms1",
@@ -24,10 +24,10 @@
    "filterable": 1,
    "_ok": true,
    "_n": 50,
-   "_ms": 621
+   "_ms": 742
   },
   {
-   "key": "cms2",
+   "key": "cms3",
    "name": "茅台资源",
    "type": 1,
    "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
@@ -36,10 +36,10 @@
    "filterable": 1,
    "_ok": true,
    "_n": 20,
-   "_ms": 1815
+   "_ms": 1583
   },
   {
-   "key": "cms3",
+   "key": "cms2",
    "name": "62-秒播",
    "type": 1,
    "api": "https://api.zeqaht.com/api.php/provide/vod/",
@@ -48,8 +48,13 @@
    "filterable": 1,
    "_ok": true,
    "_n": 20,
-   "_ms": 2061
+   "_ms": 2587
   }
  ],
- "urls": []
+ "urls": [
+  {
+   "name": "黄果兜底",
+   "url": "https://fastly.jsdelivr.net/gh/jiahua151526-maker/tvbox@main/ysc_cms.json"
+  }
+ ]
 }
